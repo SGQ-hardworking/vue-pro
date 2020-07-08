@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div>shenme</div>
+    <div>shenmeshenm</div>
   </div>
 </template>
 
