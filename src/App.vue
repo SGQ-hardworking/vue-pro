@@ -1,10 +1,19 @@
 <template>
   <div id="app">
-    <div>shenmeshenm</div>
+   <router-view></router-view>
   </div>
 </template>
 
-<style lang='scss'>
+<script>
+import Login from './components/Login'
+export default {
+  name: 'app',
+  components: {
+    Login
+  }
+}
+</script>
 
+<style>
 
 </style>
